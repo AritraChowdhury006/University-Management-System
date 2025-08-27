@@ -7,6 +7,8 @@ Login authentication via MySQL login table
 Dashboard with student, teacher, fee, marks, and leave modules
 JDBC-powered database connectivity
 Manual build and run flow (no IDE required)
+
+
 🧰 Tech Stack
 Java (JDK 21)
 MySQL
